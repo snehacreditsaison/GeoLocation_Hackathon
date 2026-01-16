@@ -14,4 +14,6 @@ The prompt will return to normal, and you'll be using your system's global Pytho
 
 
 chmod 777 run.sh
+
+
 ./run.sh
