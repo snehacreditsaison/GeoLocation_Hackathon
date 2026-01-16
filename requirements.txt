@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pillow
+python-multipart
+torch
+torchvision
+requests
+geopy
